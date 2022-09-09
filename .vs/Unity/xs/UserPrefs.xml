@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{CD8C9303-404B-FB8D-6B9B-21988D5CAC0A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Player Movement Follower.cs">
+    <Files>
+      <File FileName="Assets/scripts/NewBehaviourScript.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Player Movement Follower.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e59f162e-3067-475c-b321-4ffc78648828" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
