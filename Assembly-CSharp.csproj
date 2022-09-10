@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CD8C9303-404B-FB8D-6B9B-21988D5CAC0A}</ProjectGuid>
+    <ProjectGuid>{6928C326-A599-04D1-9803-47EA4770DB12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,14 +57,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/EndMenu.cs" />
-    <Compile Include="Assets/Scripts/PlayerLife.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
-    <Compile Include="Assets/Scripts/StartMenu.cs" />
-    <Compile Include="Assets/Scripts/Finish.cs" />
-    <Compile Include="Assets/Scripts/WaypointFollower.cs" />
     <Compile Include="Assets/Scripts/ItemCollector.cs" />
+    <Compile Include="Assets/Scripts/WaypointFollower.cs" />
+    <Compile Include="Assets/Scripts/PlayerLife.cs" />
     <Compile Include="Assets/Scripts/Rotate.cs" />
     <Compile Include="Assets/Scripts/StickyPlatform.cs" />
+    <Compile Include="Assets/Scripts/StartMenu.cs" />
+    <Compile Include="Assets/Scripts/Finish.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/CasualGameBGM05/ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
